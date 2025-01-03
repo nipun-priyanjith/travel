@@ -8,7 +8,7 @@
 ### How to Install This Project on Your PC
 
 1. **Clone the Repository**:
-   - First, clone the project repository from GitHub (or your preferred hosting service) to your local machine using the following command:
+   - First, clone the project repository from GitHub to your local machine using the following command:
    ```bash
    git clone https://github.com/nipun-priyanjith/travel.git
    ```
